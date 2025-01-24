@@ -31,7 +31,7 @@ let package = Package(
             dependencies: ["Antifraud-SPM"]),
         .binaryTarget(
             name: "AntifraudSDK",
-            url: "https://github.com/bespot/Antifraud-SPM/releases/download/1.0.2/AntifraudSDK.xcframework.zip",
-            checksum: "c1defeef4ad3ef837602e8732d88e9a3c0960ff4d8f3f5eec6bc2ed01ef9706f")
+            url: "https://github.com/bespot/Antifraud-SPM/releases/download/1.0.3/AntifraudSDK.xcframework.zip",
+            checksum: "fa76fb286fb86e076b2b0c8536f5bdea549086e68a9500792888d21f9da2bbc7")
     ]
 )
